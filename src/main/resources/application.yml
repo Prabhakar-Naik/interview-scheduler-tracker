@@ -19,7 +19,7 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: priya@gmail.com
+    username: @gmail.com
     password: password
     smtp:
       connectiontimeout: 5000
